@@ -20,7 +20,7 @@ The primary challenge was to evaluate sales and profit margins across various re
 ## Insights Generated
 - **Regional Profit Analysis**: Profit margins vary significantly across regions. The West and East regions contributed the most to overall sales.
 - **Category Analysis**: Technology products showed the highest profit margins, while Office Supplies had a lower profit-to-sales ratio.
-- **Ship Mode Efficiency**: Standard Class shipping emerged as the most cost-effective method, while Second-Class shipping, though faster, incurred higher costs with little added profit.
+- **Ship Mode Efficiency**: Standard Class shipping emerged as the most cost-effective method, while Second-Class shipping though faster, incurred higher costs with little added profit.
 - **State and City-Level Insights**: New York City and Los Angeles generated the highest profit margins, providing opportunities for targeted marketing and inventory management.
 
 
